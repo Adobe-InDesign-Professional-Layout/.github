@@ -1,7 +1,7 @@
 # Adobe InDesign – Professional Layout for Print & Digital Publishing
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZjSYFMR4204_brplU3fu_9PVsRwXO9Ic5Q&s" alt="Adobe InDesign Logo" width="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZZjSYFMR4204_brplU3fu_9PVsRwXO9Ic5Q&s" alt="Adobe InDesign Logo" width="400"/>
 </p>
 
 <p align="center">
